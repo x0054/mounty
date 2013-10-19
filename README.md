@@ -16,6 +16,7 @@ running
 ======
 
 Example:
+
 mounty smb://server/share /mount/pint WiFi_SSID
 
 It works with any type of share that OSX can mount, not just samba, as it relies on the internal NetFS library.
