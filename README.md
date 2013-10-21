@@ -10,7 +10,7 @@ I added the SSID argument so that monty knows to only attempt the connection if 
 installing
 =======
 
-Compile in Xcode and copy the mounty binary to any directory in your path, like /usr/bin/
+Download the precompiled binary from the "compiled" directory above or compile the source in Xcode and copy the mounty binary to any directory in your path, like /usr/bin/.
 
 running
 ======
